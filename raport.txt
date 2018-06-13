@@ -1,0 +1,21 @@
+Tue Jun 12 22:57:07 CEST 2018
+
+List Task:
+1. Task [id=1, name=Test, description=testowy opis, dateCreated=2018-06-12 21:26:04.0, finished=false]
+
+List Files:
+1. Raport.pdf
+2. temperature 00001.k
+3. temperature 00002.k
+4. temperature 00003.k
+5. temperature 00004.k
+6. temperature 00005.k
+7. temperature 00006.k
+8. temperature 00007.k
+9. temperature 00008.k
+10. temperature 00009.k
+11. temperature 00010.k
+12. temperature 00011.k
+13. temperature 00049.k
+14. temperature 00077.k
+15. temperature 00103.k
